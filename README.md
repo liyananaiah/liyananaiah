@@ -1,7 +1,5 @@
 ## Hi 👋, I'm Liya Nanaiah
 
-<!--
-**liyananaiah/liyananaiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Backend-focused Software Engineering student passionate about building scalable web applications, AI-powered systems, and cloud-based solutions.
@@ -81,20 +79,7 @@ AI-powered document retrieval and knowledge management platform using RAG archit
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Add LinkedIn URL]
-- Email: [Add Email]
+- LinkedIn: linkedin.com/in/liya-nanaiah-8a4484297
+- Email: liya.nanaiah@gmail.com
 
----
 
-*"Always learning, always building."*
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
