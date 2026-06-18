@@ -9,7 +9,8 @@ Backend-focused Software Engineering student passionate about building scalable 
 ## 🎓 Education
 
 **B.Tech in Computer Science & Engineering**  
-NMAM Institute of Technology
+NMAM Institute of Technology 
+---
 CGPA:8.68
 
 ### Christ Academy Junior College
